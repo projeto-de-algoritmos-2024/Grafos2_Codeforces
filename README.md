@@ -19,10 +19,12 @@ O projeto possui como tema central a resolução de exercícios de programação
 | [Secret Passwords](./1263D_Secret-Passwords) | [1263D](https://codeforces.com/contest/1263/problem/D) | Média | Caio |
 | [Bicycles](./1915G_Bicycles) | [1915G](https://codeforces.com/contest/1915/problem/G) | Difícil | Caio |
 | [Time Travel](./1888E_Time-Travel) | [1888E](https://codeforces.com/contest/1888/problem/E) | Difícil | Caio |
-| [Flight Discount](./CSES_Flight_discount/) | [1195](https://cses.fi/problemset/task/1195/) | Média | Henrique |
+| [Flight Discount](./CSES_Flight_discount/) | [1195](https://cses.fi/problemset/task/1195/) | Díficil | Henrique |
+| [Flight Routes](./CSES_flight_routes/) | [1196](https://cses.fi/problemset/task/1196/) | Média | Henrique | 
 
 ## Vídeos
 Solução [Secret Passwords](https://youtu.be/z2jFWOAahtM)<br>
 Solução [Bicycles](https://youtu.be/W-JEh_tCc4s)<br>
 Solução [Time Travel](https://youtu.be/1ADyjT2ME_4)<br>
 Solução [Flight Discount](https://youtu.be/N82trhByt3g)<br>
+Solução [Flight Routes](https://youtu.be/-ZYnCDPYf3Q)<br>
