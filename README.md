@@ -22,7 +22,7 @@ O projeto possui como tema central a resolução de exercícios de programação
 | [Flight Discount](./CSES_Flight_discount/) | [1195](https://cses.fi/problemset/task/1195/) | Média | Henrique |
 
 ## Vídeos
-Solução [Secret Passwords](https://youtu.be/z2jFWOAahtM)
-Solução [Bicycles](https://youtu.be/W-JEh_tCc4s)
-Solução [Time Travel](https://youtu.be/1ADyjT2ME_4)
-Solução [Flight Discount](https://youtu.be/N82trhByt3g)
+Solução [Secret Passwords](https://youtu.be/z2jFWOAahtM)<br>
+Solução [Bicycles](https://youtu.be/W-JEh_tCc4s)<br>
+Solução [Time Travel](https://youtu.be/1ADyjT2ME_4)<br>
+Solução [Flight Discount](https://youtu.be/N82trhByt3g)<br>
